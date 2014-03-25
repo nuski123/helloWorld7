@@ -1,5 +1,6 @@
 afdsf
 gjj
+<<<<<<< HEAD
 gjg
 rfgtth
 rghyrt
@@ -14,3 +15,6 @@ tyh
 tyh
 tyh
 tyh
+=======
+gjg
+>>>>>>> 6b10f09227c5b891463a40fe716aee4476e40ac9
